@@ -29,6 +29,17 @@ address {
   font-style: inherit;
 }
 
+
+/*Віктор Чайковський*/
+.main-header {
+  font-weight: 700px;
+  color: aquamarine;
+}
+.content {
+  font-family: Roboto, sans-serif;
+  font-size: medium;
+}
+
 /* Ivan */
 
 .container {
