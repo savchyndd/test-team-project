@@ -141,7 +141,7 @@ address {
   line-height: 55px;
   color: brown;
   margin-bottom: 25px;
-
+}
 .skills {
   color: aqua;
   background-color: tomato;
@@ -160,9 +160,4 @@ address {
   width: 400px;
   height: 400px;
   background-color: #929eaa;
-}
-
- color: blue;
-
-
 }
