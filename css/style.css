@@ -30,5 +30,16 @@ address {
 }
 /* Валера */
 .bumblebee {
- color: blue;
+  color: blue;
+  text-align: center
+}
+
+.jpg {
+  margin-left: auto
+  border: 1px;
+  border: solid;
+  padding: 20px;
+  width: 400px;
+  height: 400px;
+  background-color: #929eaa;
 }
