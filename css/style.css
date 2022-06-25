@@ -29,6 +29,10 @@ address {
   font-style: inherit;
 }
 
+ /*Марина*/
+ .text{ color: blueviolet;}
+
+
 
 .about {
   margin-bottom: 40px;
@@ -63,3 +67,4 @@ address {
 
 
 }
+
