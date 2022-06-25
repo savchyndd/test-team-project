@@ -28,5 +28,43 @@ address {
   /* or */
   font-style: inherit;
 }
+
  /*Марина*/
  .text{ color: blueviolet;}
+
+
+
+.about {
+  margin-bottom: 40px;
+  font-family: "Montserrat", sans-serif;
+    background-color: aqua;
+
+}
+
+.about-position {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: blueviolet;
+  margin-bottom: 20px;
+}
+
+.about-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: brown;
+  margin-bottom: 25px;
+
+.skills {
+  background-color: tomato;
+}
+/* Валера */
+.bumblebee {
+ color: blue;
+
+
+}
+
