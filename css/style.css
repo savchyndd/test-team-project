@@ -28,7 +28,12 @@ address {
   /* or */
   font-style: inherit;
 }
+
+.skills {
+  background-color: tomato;
+}
 /* Валера */
 .bumblebee {
  color: blue;
+
 }
