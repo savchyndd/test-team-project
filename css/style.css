@@ -30,7 +30,6 @@ address {
 }
 
 
-
 .about {
   margin-bottom: 40px;
   font-family: "Montserrat", sans-serif;
@@ -54,4 +53,13 @@ address {
   line-height: 55px;
   color: brown;
   margin-bottom: 25px;
+
+.skills {
+  background-color: tomato;
+}
+/* Валера */
+.bumblebee {
+ color: blue;
+
+
 }
